@@ -13,5 +13,6 @@ psycopg2-binary==2.8.6
 pyparsing==2.4.7
 pytest==6.2.1
 pytz==2020.5
+python-dotenv==0.15.0
 sqlparse==0.4.1
 toml==0.10.2

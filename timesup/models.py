@@ -1,4 +1,3 @@
-from enum import unique
 from django.db import models
 from uuid import uuid4
 from django_fsm import FSMField, transition
